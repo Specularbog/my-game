@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B951BC1B-DE0E-1EA1-67F7-DA79877030A7}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Knight.cs">
+    <Files>
+      <File FileName="../Documents/:Users:missionbit:my game:Assets:scripts:Door1.cs" Line="4" Column="1" />
+      <File FileName="Assets/scripts/Doorway1.cs" Line="9" Column="5" />
+      <File FileName="Assets/scripts/camera.cs" Line="12" Column="1" />
+      <File FileName="Assets/scripts/Knight.cs" Line="100" Column="42" />
+      <File FileName="Assets/scripts/enemy.cs" Line="25" Column="1" />
+      <File FileName="Assets/scripts/weaon.cs" Line="15" Column="58" />
+      <File FileName="../block breaker/Assets/scripts/Ball.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
